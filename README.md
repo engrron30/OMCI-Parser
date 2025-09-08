@@ -1,3 +1,3 @@
 # OMCI Parser
 
-Parse raw OMCI packet to something beautiful.
+Parse raw OMCI packet using Python scripts to something beautiful.
